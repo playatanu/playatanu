@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=playatanu&label=Profile%20views&color=0e75b6&style=flat" alt="playatanu" /> </p>
 
 
-
+<br><br>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -14,7 +14,7 @@
 <a href="https://www.behance.net/playatanu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="playatanu" height="30" width="40" /></a>
 
 </p>
-
+<br><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
@@ -24,6 +24,7 @@
 </p>
 
 
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=playatanu&show_icons=true&locale=en" alt="playatanu" /></p>
 
 
