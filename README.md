@@ -18,7 +18,7 @@
 <a href="https://www.behance.net/playatanu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="playatanu" height="30" width="40" /></a>
 
 </p>
-<br><br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
