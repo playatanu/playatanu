@@ -1,8 +1,8 @@
 <img align="center" alt="Coding" src="https://raw.githubusercontent.com/playatanu/playatanu/main/custom%20%E2%80%93%201.png">
 
 
-<h1 align="center">Hi 👋, I'm Atanu Debnath</h1>
-<h3 align="center">UX/UI Designer | Android Developer</h3>
+<h1 align="center">Hi! I'm Atanu Debnath 👋 </h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=playatanu&label=Profile%20views&color=0e75b6&style=flat" alt="playatanu" /> </p>
 
