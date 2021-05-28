@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://raw.githubusercontent.com/playatanu/playatanu/main/custom%20%E2%80%93%201.png">
+<img align="center" alt="Coding" src="https://github.com/playatanu/playatanu/blob/main/playatanu_banner.png?raw=true">
 
 
 <h1 align="center">Hi! I'm Atanu Debnath 👋 </h1>
