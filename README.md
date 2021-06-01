@@ -1,9 +1,9 @@
-<img align="center" alt="Coding" style=" object-fit: cover;" width = "1024" height="200"   src="https://github.com/playatanu/playatanu/blob/main/playatanu.png?raw=true">
+<img align="center" alt="Coding" style=" object-fit: cover;" width = "1000" height="200"   src="https://github.com/playatanu/playatanu/blob/main/playatanu.png?raw=true">
 
 
 <h1 align="center">Hi! I'm Atanu Debnath 👋 </h1>
-<h2 align="center">I make Cross Platform Apps</h2>
-<p style="font-size:10%;"  align="center" >Android  IOS  Web  Windows  Mac  Linux</p>
+<h2 align="center">I make Cross Platform Apps <p style="font-size:0.5%;"  align="center" >Android  IOS  Web  Windows  Mac  Linux</p></h2>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=playatanu&label=Profile%20views&color=0e75b6&style=flat" alt="playatanu" /> </p>
