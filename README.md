@@ -3,6 +3,10 @@
 
 <h1 align="center">Hi! I'm Atanu Debnath 👋 </h1>
 
+<h2 align="center">I make Cross Platform Apps</h2>
+<p style="font-size:10%;"  align="center"><b> Android  IOS  Web  Windows  Mac  Linux </b></p>
+<p style="font-size:10%;">This is a paragraph.</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=playatanu&label=Profile%20views&color=0e75b6&style=flat" alt="playatanu" /> </p>
 
@@ -31,11 +35,9 @@
 
 </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=playatanu&show_icons=true&locale=en&layout=compact" alt="playatanu" /></p>
 
 
-<br><br>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=playatanu&show_icons=true&locale=en" alt="playatanu" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=playatanu&show_icons=true&locale=en" alt="playatanu" />
 
 
