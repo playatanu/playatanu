@@ -2,10 +2,8 @@
 
 
 <h1 align="center">Hi! I'm Atanu Debnath 👋 </h1>
-
 <h2 align="center">I make Cross Platform Apps</h2>
-<p style="font-size:10%;"  align="center"><b> Android  IOS  Web  Windows  Mac  Linux </b></p>
-<p style="font-size:10%;">This is a paragraph.</p>
+<p style="font-size:10%;"  align="center" >Android  IOS  Web  Windows  Mac  Linux</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=playatanu&label=Profile%20views&color=0e75b6&style=flat" alt="playatanu" /> </p>
