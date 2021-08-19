@@ -1,9 +1,16 @@
+<h1 align="center" xmlns="http://www.w3.org/1999/html">
+    <br>
 <img align="center" alt="Coding" style=" object-fit: cover;"    src="https://github.com/playatanu/playatanu/blob/main/playatanu.png?raw=true">
+  <br>
+</h1>
 
+<h1 align="center">
+Hi! I'm Atanu Debnath 👋
+</h1>
 
-<h1 align="center">Hi! I'm Atanu Debnath 👋 </h1>
-<h2 align="center">I make Cross Platform Apps <p style="font-size:0.5%;"  align="center" >Android  IOS  Web  Windows  Mac  Linux</p></h2>
-
+<p align="center">
+ I make Cross Platform Apps Android IOS Web Windows Mac Linux 
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=playatanu&label=Profile%20views&color=0e75b6&style=flat" alt="playatanu" /> </p>
