@@ -10,7 +10,9 @@
 
 
 ![](https://komarev.com/ghpvc/?username=playatanu&color=blueviolet&label=Profile+Views)
-[![Linkedin: rashidwassan](https://img.shields.io/badge/-playatanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/playatanu/)](https://www.linkedin.com/in/playatanu/)
+[![Linkedin: playatanu](https://img.shields.io/badge/-playatanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/playatanu/)](https://www.linkedin.com/in/playatanu/)
+[![](https://github.com/playatanu/playatanu/blob/main/buymeacoffee.png?raw=true)](https://www.buymeacoffee.com/playatanu)
+
 
 
 - 👀 I’m interested in Competitive Coding & Devlopment
@@ -19,6 +21,7 @@
 - 👨‍💻 You can also check out my UX/UI Design at [Behance](https://www.behance.net/playatanu/)
 - 📫 How to reach me **playatanu@gmail.com**
 
+[![](https://github.com/playatanu/assets/blob/main/buymeacoffee.png?raw=true)](https://www.buymeacoffee.com/playatanu)
 
 **Languages and Tools:**
   
