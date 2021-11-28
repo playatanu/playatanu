@@ -16,7 +16,7 @@
 
 
 - 👀 I’m interested in Competitive Coding & Devlopment
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning `BACKEND`
 - 💞️ I’m looking to collaborate on ...
 - 👨‍💻 You can also check out my UX/UI Design at [Behance](https://www.behance.net/playatanu/)
 - 📫 How to reach me **playatanu@gmail.com**
