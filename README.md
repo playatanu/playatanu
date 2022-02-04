@@ -1,6 +1,6 @@
 <p align="center" xmlns="http://www.w3.org/1999/html">
     <br>
-<img align="center" alt="Coding" style=" object-fit: cover;"    src="https://github.com/playatanu/playatanu/blob/main/playatanu.png?raw=true">
+<img align="center" alt="Coding" style=" object-fit: cover;"    src="https://github.com/playatanu/playatanu/blob/main/backend-dev.png?raw=true">
   <br>
 </p>
 
