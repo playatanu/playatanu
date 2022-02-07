@@ -1,6 +1,6 @@
 <p align="center" xmlns="http://www.w3.org/1999/html">
     <br>
-<img align="center" alt="Coding" style=" object-fit: cover;"    src="https://github.com/playatanu/playatanu/blob/main/backend-dev.png?raw=true">
+<img align="center" alt="Coding" style=" object-fit: cover;"    src="https://github.com/playatanu/playatanu/blob/main/newplayatanu.png?raw=true">
   <br>
 </p>
 
@@ -16,9 +16,9 @@
 
 
 - 👀 I’m interested in Competitive Coding & Devlopment
-- 🌱 I’m currently learning `BACKEND`
+- 🌱 I’m currently learning `JavaScrip Frameworks`
 - 💞️ I’m looking to collaborate on ...
-- 👨‍💻 You can also check out my [`REST API`](https://github.com/playatanu/)
+- 👨‍💻 You can also check out my [`PROJECTS`](https://github.com/playatanu/)
 - 📫 How to reach me **playatanu@gmail.com**
 
 
