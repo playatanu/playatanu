@@ -17,17 +17,17 @@
 
 - 👀 I’m interested in Game Programming
 - 🌱 I’m currently learning `Unity 3D`
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate ...
 - 👨‍💻 You can also check out my [`PROJECTS`](https://github.com/playatanu/)
 - 📫 How to reach me **playatanu@gmail.com**
 
 
-#### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">&nbsp; I code with...
+<!-- #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">&nbsp; I code with...
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="20" src="https://secrethub.io/img/vs-code.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+ -->
 <!--
 #### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">&nbsp; I code with...
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -47,12 +47,27 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> 
--->
+
 [<code><img height="40" src="https://github.com/playatanu/playatanu/blob/main/buymeacoffee.png?raw=true"></code>](https://www.buymeacoffee.com/playatanu)
 <br>
 
+-->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playatanu&layout=compact)](https://github.com/playatanu/github-readme-stats)
 
+<div align="center">
+<table>
+<tr>
+<td width="45%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=playatanu&show_icons=true&background=FFFFFF00&hide_border=true" alt="Mohamed-AH">
+</td>
+<td width="45%">
+ <img src="https://github-readme-stats.vercel.app/api?username=playatanu&bg_color=FFFFFF00include_all_commits=true&count_private=true&hide_border=true">
+</table>
+</div>
+</td>
+</tr>
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playatanu&layout=compact)](https://github.com/playatanu/github-readme-stats)
+
+ -->
