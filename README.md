@@ -13,8 +13,6 @@
 
 ![](https://komarev.com/ghpvc/?username=playatanu&color=blueviolet&label=Profile+Views)
 [![Linkedin: playatanu](https://img.shields.io/badge/-playatanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/playatanu/)](https://www.linkedin.com/in/playatanu/)
-[![](https://github.com/playatanu/playatanu/blob/main/buymeacoffee.png?raw=true)](https://www.buymeacoffee.com/playatanu)
-
 
 
 - 👀 I’m interested in Game Programming
@@ -56,5 +54,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=playatanu&layout=compact)](https://github.com/playatanu/github-readme-stats)
-https://raw.githubusercontent.com/playatanu/assets/main/buymeacoffee.png
+
 
