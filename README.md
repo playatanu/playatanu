@@ -50,9 +50,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> 
 -->
-[<code><img height="40" src="https://raw.githubusercontent.com/playatanu/assets/main/buymeacoffee.png?raw=true"></code>](https://www.buymeacoffee.com/playatanu)
+[<code><img height="40" src="https://github.com/playatanu/assets/blob/main/buymeacoffee.png?raw=true"></code>](https://www.buymeacoffee.com/playatanu)
 <br>
-
 
 
 
