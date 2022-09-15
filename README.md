@@ -16,7 +16,7 @@
 
 
 - 👀 I’m interested in Game Programming
-- 🌱 I’m currently learning `Unity 3D`
+- 🌱 I’m currently learning `Unreal Engine 5`
 - 💞️ I’m looking to collaborate ...
 - 👨‍💻 You can also check out my [`PROJECTS`](https://github.com/playatanu/)
 - 📫 How to reach me **playatanu@gmail.com**
