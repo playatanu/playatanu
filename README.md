@@ -1,6 +1,6 @@
 <p align="center" xmlns="http://www.w3.org/1999/html">
     <br>
-<img align="center" alt="Coding" style=" object-fit: cover;"    src="https://github.com/playatanu/playatanu/blob/main/gamedevplayatanu4.png?raw=true">
+<img align="center" alt="Coding" style=" object-fit: cover;"    src="https://github.com/playatanu/playatanu/blob/main/gamedevplayatanu3.png?raw=true">
   <br>
 </p>
 
@@ -16,7 +16,7 @@
 
 
 - 👀 I’m interested in Game Programming
-- 🌱 I’m currently learning `Unity Engine`
+- 🌱 I’m currently learning `Unreal Engine`
 - 💞️ I’m looking to collaborate ...
 - 👨‍💻 You can also check out my [`PROJECTS`](https://github.com/playatanu/)
 - 📫 How to reach me **playatanu@gmail.com**
