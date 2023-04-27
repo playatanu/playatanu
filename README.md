@@ -13,7 +13,7 @@
 
 ![](https://komarev.com/ghpvc/?username=playatanu&color=blueviolet&label=Profile+Views)
 [![Linkedin: playatanu](https://img.shields.io/badge/-playatanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/playatanu/)](https://www.linkedin.com/in/playatanu/)
-[![LeetCode: playatanu](https://img.shields.io/badge/-playatanu-yellow?style=flat-square&logo=leetcode&logoColor=white&link=https://www.leetcode.com/playatanu/)](https://www.leetcode.com/playatanu/)
+<!-- [![LeetCode: playatanu](https://img.shields.io/badge/-playatanu-yellow?style=flat-square&logo=leetcode&logoColor=white&link=https://www.leetcode.com/playatanu/)](https://www.leetcode.com/playatanu/) -->
 
 
 
