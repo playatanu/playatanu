@@ -19,7 +19,7 @@
 
 
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning `Java Stack`
+- 🌱 I’m currently learning `Node JS Stack`
 - 💞️ I’m looking to collaborate ...
 - 👨‍💻 You can also check out my [`PROJECTS`](https://github.com/playatanu/)
 - 📫 How to reach me **playatanu@gmail.com**
