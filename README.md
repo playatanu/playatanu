@@ -1,6 +1,6 @@
 <p align="center" xmlns="http://www.w3.org/1999/html">
     <br>
-<img align="center" alt="Coding" style=" object-fit: cover;"    src="https://github.com/playatanu/playatanu/blob/main/nodejs-developer.png?raw=true">
+<img align="center" alt="Coding" style=" object-fit: cover;"    src="https://github.com/playatanu/playatanu/blob/main/atanu_debnath.png?raw=true">
   <br>
 </p>
 
@@ -16,8 +16,8 @@
 [![Linkedin: playatanu](https://img.shields.io/badge/-playatanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/playatanu/)](https://www.linkedin.com/in/playatanu/)
 
 
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning `Node JS Stack`
+- 👀 I’m interested in AI/ML
+- 🌱 I’m currently learning `Computer Vision`
 - 💞️ I’m looking to collaborate ...
 - 👨‍💻 You can also check out my [`PROJECTS`](https://github.com/playatanu/)
 - 📫 How to reach me **playatanu@gmail.com**
