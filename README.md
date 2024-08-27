@@ -17,7 +17,7 @@
 
 
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning `Computer Vision`
+- 🌱 I’m currently learning `Machine Learning`
 - 💞️ I’m looking to collaborate ...
 - 👨‍💻 You can also check out my [`PROJECTS`](https://github.com/playatanu/)
 - 📫 How to reach me **playatanu@gmail.com**
