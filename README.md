@@ -5,10 +5,7 @@
 </p>
 
 
-
 <h2> Hi! I'm <a href="https://playatanu.github.io">Atanu Debnath</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-
 
 
 ![](https://komarev.com/ghpvc/?username=playatanu&color=blueviolet&label=Profile+Views)
@@ -20,21 +17,8 @@
 - 🌱 I’m currently learning `Machine Learning`
 - 💞️ I’m looking to collaborate ...
 - 👨‍💻 You can also check out my [`PROJECTS`](https://github.com/playatanu/)
+- 📄 Know about my experiences [`Resume`](https://resumelink.com)
 - 📫 How to reach me **playatanu@gmail.com**
 
-
-
-<div align="center">
-    <table>
-        <tr>
-            <td width="45%">
-                  <img src="https://github-readme-streak-stats.herokuapp.com/?user=playatanu&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
-            </td>
-            <td width="45%">
-                  <img src="https://github-readme-stats.vercel.app/api?username=playatanu&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;">
-            </td>
-        </tr>
-    </table>
-</div>
 
 
