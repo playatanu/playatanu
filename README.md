@@ -3,6 +3,12 @@
 <h2>Hi! I'm <a href="https://playatanu.github.io">Atanu Debnath</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 [![Linkedin: playatanu](https://img.shields.io/badge/-playatanu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/playatanu/)](https://www.linkedin.com/in/playatanu/)
+[![Linkedin: playatanu](https://img.shields.io/badge/-playatanu-white?style=flat-square&logo=Youtube&logoColor=red&link=https://www.youtube.com/@playatanu/)](https://www.youtube.com/@playatanu/)
+
+
+
+
+
 
 <!-- 
 ![](https://komarev.com/ghpvc/?username=playatanu&color=blueviolet&label=Profile+Views)
