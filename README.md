@@ -14,8 +14,8 @@
 ![](https://komarev.com/ghpvc/?username=playatanu&color=blueviolet&label=Profile+Views)
 [![Twitter: playatanu](https://img.shields.io/badge/-playatanu-black?style=flat-square&logo=x&logoColor=white&link=https://www.twitter.com/playatanu/)](https://www.twitter.com/playatanu/) -->
 
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning `Deep Learning`
+- 👀 I’m interested in ``Deep Learning``
+- 🌱 I’m currently learning `Computer Vision`
 - 💞️ I’m looking to collaborate ...
 - 👨‍💻 You can also check out my [`PROJECTS`](https://github.com/playatanu?tab=repositories)
 - 📄 Know about my experiences [`Resume`](https://playatanu.github.io/Atanu_Debanth_Resume.pdf)
