@@ -17,8 +17,8 @@
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning `Deep Learning`
 - 💞️ I’m looking to collaborate ...
-- 👨‍💻 You can also check out my [`PROJECTS`](https://github.com/playatanu/)
-- 📄 Know about my experiences [`Resume`](https://resumelink.com)
+- 👨‍💻 You can also check out my [`PROJECTS`](https://github.com/playatanu?tab=repositories)
+- 📄 Know about my experiences [`Resume`](https://playatanu.github.io/Atanu_Debanth_Resume.pdf)
 - 📫 How to reach me **playatanu@gmail.com**
 
 
