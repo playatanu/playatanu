@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" style=" object-fit: cover;"  src="https://github.com/playatanu/playatanu/blob/main/atanu_debnath.png?raw=true">
+<img align="center" alt="Coding" style=" object-fit: cover;"  src="https://github.com/playatanu/playatanu/blob/main/github_banner.png?raw=true">
 
 <h2>Hi! I'm <a href="https://playatanu.github.io">Atanu Debnath</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
