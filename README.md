@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning `Computer Vision`
 - 💞️ I’m looking to collaborate ...
 - 👨‍💻 You can also check out my [`PROJECTS`](https://github.com/playatanu?tab=repositories)
-- 📄 Know about my experiences [`Resume`](https://playatanu.github.io/Atanu_Debanth_Resume.pdf)
+- 📄 Know about my experiences [`Resume`](https://playatanu.github.io/Atanu_Debnath_Resume.pdf)
 - 📫 How to reach me **playatanu@gmail.com**
 
 
